@@ -6,3 +6,6 @@ box-shadow:0 0 10px rgb(40, 167, 69,0.8);}
 ul{
     list-style-type: none;
 }
+#mouse{cursor:pointer;
+align-items: center;
+padding: 25px;}
